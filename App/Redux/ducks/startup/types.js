@@ -1,0 +1,5 @@
+const INIT_START_UP_TASKS_SAGA = 'app/startup/INIT_START_UP_TASKS_SAGA'
+
+export {
+  INIT_START_UP_TASKS_SAGA
+};

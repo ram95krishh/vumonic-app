@@ -1,0 +1,9 @@
+const LOGIN_SAGA = 'app/auth/LOGIN_SAGA';
+const SAVE_USER_INFO = 'app/auth/SAVE_USER_INFO'
+const SET_AUTHENTICATED = 'app/auth/SET_AUTHENTICATED'
+
+export {
+  LOGIN_SAGA,
+  SAVE_USER_INFO,
+  SET_AUTHENTICATED
+};
